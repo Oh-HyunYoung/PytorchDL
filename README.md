@@ -9,5 +9,6 @@
 <참고 github>\
 https://github.com/wikibook/pytorchdl2
 
+<img src="https://img.shields.io/badge/Python-white?style=plastic&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/PyTorch-green?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
 
