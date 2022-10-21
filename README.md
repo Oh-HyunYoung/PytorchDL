@@ -5,7 +5,7 @@
 구글 colab를 사용하여 실습합니다.
 
 출판사 : 위키북스\
-기간 : 2022.09.29~
+기간 : 2022.09.29~10.20
 
 <참고 github>\
 https://github.com/wikibook/pytorchdl2
